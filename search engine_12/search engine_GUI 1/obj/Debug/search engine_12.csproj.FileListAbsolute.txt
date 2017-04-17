@@ -1,0 +1,26 @@
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search engine_12.csproj.ResolveComReference.cache
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search_engine_12.Form1.resources
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search_engine_GUI_1.Properties.Resources.resources
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search engine_12.csproj.GenerateResource.Cache
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search engine_GUI 1.exe.manifest
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search engine_GUI 1.exe
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search engine_GUI 1.pdb
+C:\My computer\C#\search engine_12\search engine_GUI 1\bin\Debug\search engine_GUI 1.exe.config
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search engine_12.csprojResolveAssemblyReference.cache
+C:\My computer\C#\search engine_12\search engine_GUI 1\bin\Debug\search engine_GUI 1.exe.manifest
+C:\My computer\C#\search engine_12\search engine_GUI 1\bin\Debug\search engine_GUI 1.application
+C:\My computer\C#\search engine_12\search engine_GUI 1\bin\Debug\search engine_GUI 1.exe
+C:\My computer\C#\search engine_12\search engine_GUI 1\bin\Debug\search engine_GUI 1.pdb
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search engine_GUI 1.application
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\obj\Debug\search engine_GUI 1.exe
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\obj\Debug\search engine_GUI 1.pdb
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\obj\Debug\search_engine_12.Form1.resources
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\obj\Debug\search_engine_GUI_1.Properties.Resources.resources
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\obj\Debug\search engine_12.csproj.GenerateResource.Cache
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\bin\Debug\search engine_GUI 1.exe.config
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\bin\Debug\search engine_GUI 1.exe.manifest
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\bin\Debug\search engine_GUI 1.application
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\bin\Debug\search engine_GUI 1.exe
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\bin\Debug\search engine_GUI 1.pdb
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\obj\Debug\search engine_GUI 1.exe.manifest
+D:\github\workspace\search_engines\desktop-search-engine\search engine_12\search engine_GUI 1\obj\Debug\search engine_GUI 1.application

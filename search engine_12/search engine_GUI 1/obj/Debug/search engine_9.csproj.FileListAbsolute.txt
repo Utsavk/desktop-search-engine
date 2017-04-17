@@ -1,0 +1,24 @@
+D:\C#\search engine_9\search engine_GUI 1\obj\Debug\search engine_9.csprojResolveAssemblyReference.cache
+D:\C#\search engine_9\search engine_GUI 1\obj\Debug\search engine_9.csproj.ResolveComReference.cache
+D:\C#\search engine_9\search engine_GUI 1\obj\Debug\search_engine_9.Form1.resources
+D:\C#\search engine_9\search engine_GUI 1\obj\Debug\search_engine_GUI_1.Properties.Resources.resources
+D:\C#\search engine_9\search engine_GUI 1\obj\Debug\search engine_9.csproj.GenerateResource.Cache
+D:\C#\search engine_9\search engine_GUI 1\obj\Debug\search engine_GUI 1.exe
+D:\C#\search engine_9\search engine_GUI 1\obj\Debug\search engine_GUI 1.pdb
+D:\C#\search engine_9\search engine_GUI 1\bin\Debug\search engine_GUI 1.exe.config
+D:\C#\search engine_9\search engine_GUI 1\bin\Debug\search engine_GUI 1.exe
+D:\C#\search engine_9\search engine_GUI 1\bin\Debug\search engine_GUI 1.pdb
+C:\My computer\C#\search engine_9\search engine_GUI 1\bin\Debug\search engine_GUI 1.exe.config
+C:\My computer\C#\search engine_9\search engine_GUI 1\obj\Debug\search engine_9.csproj.ResolveComReference.cache
+C:\My computer\C#\search engine_9\search engine_GUI 1\obj\Debug\search engine_GUI 1.exe
+C:\My computer\C#\search engine_9\search engine_GUI 1\obj\Debug\search engine_GUI 1.pdb
+C:\My computer\C#\search engine_9\search engine_GUI 1\bin\Debug\search engine_GUI 1.exe
+C:\My computer\C#\search engine_9\search engine_GUI 1\bin\Debug\search engine_GUI 1.pdb
+C:\My computer\C#\search engine_9\search engine_GUI 1\obj\Debug\search_engine_9.Form1.resources
+C:\My computer\C#\search engine_9\search engine_GUI 1\obj\Debug\search_engine_GUI_1.Properties.Resources.resources
+C:\My computer\C#\search engine_9\search engine_GUI 1\obj\Debug\search engine_9.csproj.GenerateResource.Cache
+C:\My computer\C#\search engine_9\search engine_GUI 1\obj\Debug\search engine_9.csprojResolveAssemblyReference.cache
+C:\My computer\C#\search engine_12\search engine_GUI 1\bin\Debug\search engine_GUI 1.exe.config
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search engine_9.csproj.ResolveComReference.cache
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search engine_GUI 1.exe
+C:\My computer\C#\search engine_12\search engine_GUI 1\obj\Debug\search engine_GUI 1.pdb
